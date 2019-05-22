@@ -1,1 +1,3 @@
 # Ruby-Guide
+
+self exercise~
