@@ -22,6 +22,3 @@ puts /Ruby/ =~ "Diamond", "null"
 puts /Ruby/ =~ "ruby", "null"
 puts /Ruby/i =~ "ruby"
 
-# nil
-# nil 是一个特殊的值，表示对象不存在。像在正则表达式中表示无法匹配成功一样，方法不能返回有意义的值时就会返回 nil
-# 从数组或者散列中获取对象时，若指定不存在的索引或者键，则得到的返回值也是 nil。
