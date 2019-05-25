@@ -120,8 +120,8 @@ end = 1
            from /usr/local/bin/irb:16:in `<main>'
 ```
 ### Ruby保留字一览
-|:-|:-|:-|:-|:-|
 |`__LINE__`|`__ENCODING__`|`__FILE__`|BEGIN|END
+|:-|:-|:-|:-|:-|
 alias|and|begin|break|case
 class|def|defined?|do|else
 elsif|end|ensure|false|for
