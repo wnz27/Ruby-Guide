@@ -50,6 +50,7 @@ p /Ruby/ =~ "Diamond"   #=> nil
 真|false、nil以外的所有对象|
 :-|:-
 假|false、nil|
+
 也就是说，Ruby 会认为 false 与 nil 代表假，除此以外的所有值都代表真。
 
 因此，Ruby 中的真 / 假并非绝对等同于 true/false。同时，不返回 true 或 false 的方法只要能返回 nil，也可作为条件判断的表达式来使用。
